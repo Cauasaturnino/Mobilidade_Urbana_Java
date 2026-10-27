@@ -102,5 +102,6 @@ java -cp out br.com.mobilidade.Main
 
 
 
-Cauã Saturnino, \[https://www.linkedin.com/in/cauasaturnino/]
+Cauã Saturnino
+Linkedin: https://www.linkedin.com/in/cauasaturnino/
 
